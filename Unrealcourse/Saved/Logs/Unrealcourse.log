@@ -1002,3 +1002,88 @@ Make sure 'BP_BreakingPlatform_C' has been compiled for  Get DestructionDelay
 [2022.11.28-14.26.01:697][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.11.28-14.26.01:720][231]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
 [2022.11.28-14.26.01:752][232]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.11.28-14.27.18:497][762]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/BP_BreakingPlatform0DC256404082171F4C3779A812836B4E.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/Enviroment/BP_BreakingPlatform.uasset'
+[2022.11.28-14.27.18:514][762]AssetCheck: New page: Asset Save: BP_BreakingPlatform
+[2022.11.28-14.27.18:514][762]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enviroment/BP_BreakingPlatform.BP_BreakingPlatform
+[2022.11.28-14.30.02:618][571]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.11.28-14.30.02:645][571]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMap_Auto1A84E606546E2C676119EBCB013270866.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.11.28-14.30.02:648][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2022.11.28-14.30.02:648][571]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2022.11.28-14.59.33:427][993]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.28-14.59.33:433][993]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.28-14.59.33:447][993]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.28-14.59.47:190][818]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_VanishingPlatform
+[2022.11.28-14.59.47:194][818]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.28-14.59.49:410][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Enviroment/BP_VanishingPlatform.BP_VanishingPlatform
+[2022.11.28-15.00.10:299][169]BlueprintLog: New page: Compile BP_VanishingPlatform
+[2022.11.28-15.00.10:341][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.11.28-15.00.49:812][263]LogEditorTransaction: Undo Delete current selection
+[2022.11.28-15.01.49:200][781]BlueprintLog: New page: Compile BP_VanishingPlatform
+[2022.11.28-15.01.49:240][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.11.28-15.01.52:239][956]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/BP_VanishingPlatformD694A80D4828776905218FA81CAC8975.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/Enviroment/BP_VanishingPlatform.uasset'
+[2022.11.28-15.01.52:255][956]AssetCheck: New page: Asset Save: BP_VanishingPlatform
+[2022.11.28-15.01.52:255][956]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enviroment/BP_VanishingPlatform.BP_VanishingPlatform
+[2022.11.28-15.02.10:658][ 51]BlueprintLog: New page: Compile BP_VanishingPlatform
+[2022.11.28-15.02.10:696][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.11.28-15.02.27:793][ 68]BlueprintLog: New page: Compile BP_VanishingPlatform
+[2022.11.28-15.02.27:834][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.11.28-15.02.28:664][115]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/BP_VanishingPlatform6D303E3446068B5CAB20E28E5BD640F2.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/Enviroment/BP_VanishingPlatform.uasset'
+[2022.11.28-15.02.28:680][115]AssetCheck: New page: Asset Save: BP_VanishingPlatform
+[2022.11.28-15.02.28:680][115]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enviroment/BP_VanishingPlatform.BP_VanishingPlatform
+[2022.11.28-15.03.05:067][767]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.28-15.03.05:082][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.28-15.03.05:082][767]PIE: New page: PIE session: ThirdPersonExampleMap (28 Nov 2022, 17:03:05)
+[2022.11.28-15.03.05:083][767]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.11.28-15.03.05:097][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014294s)
+[2022.11.28-15.03.05:099][767]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.11.28-15.03.05:100][767]LogPlayLevel: PIE: World Init took: (0.002444s)
+[2022.11.28-15.03.05:100][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016982s)
+[2022.11.28-15.03.05:145][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.11.28-15.03.05:147][767]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.28-15.03.05:147][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-15.03.05:147][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-15.03.05:147][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-15.03.05:147][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-15.03.05:147][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.28-15.03.05:147][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.28-15.03.05:147][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.28-15.03.05:147][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-15.03.05:148][767]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.28-15.03.05:148][767]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.28-15.03.05:148][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.28-15.03.05:148][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.28-15.03.05:153][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.28-15.03.05:153][767]LogAudioMixer: Display: 1: FrontRight
+[2022.11.28-15.03.05:173][767]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.11.28-15.03.05:173][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-15.03.05:173][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-15.03.05:173][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-15.03.05:174][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.28-15.03.05:174][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.28-15.03.05:174][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.28-15.03.05:175][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.28-15.03.05:175][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.28-15.03.05:175][767]LogInit: FAudioDevice initialized.
+[2022.11.28-15.03.05:175][767]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.11.28-15.03.05:189][767]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.28-15.03.05:192][767]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.11.28-16.03.05
+[2022.11.28-15.03.05:192][767]LogWorld: Bringing up level for play took: 0.002476
+[2022.11.28-15.03.05:192][767]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.11.28-15.03.05:195][767]PIE: Server logged in
+[2022.11.28-15.03.05:197][767]PIE: Play in editor total start time 0,123 seconds.
+[2022.11.28-15.03.13:432][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-15.03.13:432][257]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.11.28-15.03.13:432][257]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-15.03.13:433][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-15.03.13:445][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.28-15.03.13:458][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-15.03.13:491][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.28-15.03.13:491][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-15.03.13:492][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-15.03.13:496][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-15.03.13:501][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.11.28-15.03.13:547][258]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.11.28-15.03.18:808][560]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.11.28-15.03.18:830][560]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMap5C0584354B4205DF5EBE3296BD6C78F5.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.11.28-15.03.18:860][560]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.11.28-15.03.18:860][560]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
