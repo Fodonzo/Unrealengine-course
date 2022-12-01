@@ -1034,3 +1034,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.01-15.12.05:020][130]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMap3B0806564AC8C97A694846A17F63FF42.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2022.12.01-15.12.05:039][130]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2022.12.01-15.12.05:039][130]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.01-15.12.44:070][727]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Checkpoint/BP_Checkpoint.BP_Checkpoint
+[2022.12.01-15.12.58:471][567]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.12.58:472][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.20.09:501][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Checkpoint/BP_Checkpoint.BP_Checkpoint
+[2022.12.01-15.20.39:281][272]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.20.39:281][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.20.53:847][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-15.24.01:896][ 58]LogSlate: Took 0.000720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.01-15.24.14:330][790]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-15.24.14:396][790]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2022.12.01-15.26.06:094][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.12.01-15.26.06:117][ 87]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMap_Auto17697DB2C41E4F51BC5D7B19F20C3C456.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.12.01-15.26.06:118][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.053
+[2022.12.01-15.26.06:118][ 87]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2022.12.01-15.26.06:118][ 87]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.12.01-15.26.06:150][ 87]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2022.12.01-15.26.06:166][ 87]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.12.01-15.26.06:166][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.12.01-15.26.06:209][ 87]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonCharacter_Auto1A5D120414233DE51226FA3977540C063.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2022.12.01-15.26.06:210][ 87]LogFileHelpers: Auto-saving content packages took 0.091
+[2022.12.01-15.32.22:029][742]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-15.32.22:093][742]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2022.12.01-15.34.56:476][123]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonCharacter77C87D474C53A40B6EE08D9850359625.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.12.01-15.34.56:490][123]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.12.01-15.34.56:490][123]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.01-15.34.57:983][213]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.01-15.34.58:051][213]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2022.12.01-15.35.07:386][507]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.12.01-15.35.07:404][507]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMapB77DD3404CCA2E645740D8AC24344F08.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.01-15.35.07:421][507]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.01-15.35.07:422][507]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
