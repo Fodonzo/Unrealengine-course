@@ -2040,3 +2040,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.02-18.31.39:004][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.12.02-18.31.39:010][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
 [2022.12.02-18.31.39:055][429]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.12.02-18.32.04:988][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.12.02-18.32.05:008][922]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMap3940AC234F2C7BDE875673853ABB5026.tmp' to '../../../../../../Users/olive/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.02-18.32.05:026][922]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.02-18.32.05:026][922]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
