@@ -2285,3 +2285,348 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.02-11.44.17:105][386]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/BP_PatrolPath4DEA4C424F85A5A1A537438A46BC7D6B.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/BP_PatrolPath.uasset'
 [2023.01.02-11.44.17:118][386]AssetCheck: New page: Asset Save: BP_PatrolPath
 [2023.01.02-11.44.17:118][386]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/BP_PatrolPath.BP_PatrolPath
+[2023.01.02-11.49.44:417][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2023.01.02-11.49.44:448][844]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMap_Auto10A1ADC784AB8ED208E35DA9B78B5FC81.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2023.01.02-11.49.44:462][844]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.110
+[2023.01.02-11.49.44:462][844]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.110
+[2023.01.02-12.00.07:415][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.02-12.00.07:439][120]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMap24CEC81A42BC38061A54A399053B949E.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.02-12.00.07:461][120]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.01.02-12.00.07:461][120]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.02-12.00.24:580][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.01.02-12.00.24:605][601]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMapF1FBF11C40FF5E958CCA028F1C9133ED.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.02-12.00.24:628][601]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.01.02-12.00.24:628][601]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.02-12.01.06:142][773]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_BehaviorEC4600DF4EA621A80FFDD09DF0115391.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.01.06:156][773]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.01.06:156][773]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.01.45:446][371]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_Behavior5F19150C45EEEB755D09BDAF7991D16E.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.01.45:460][371]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.01.45:460][371]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.01.56:648][604]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_BehaviorAE410B2B4C39645C78838B873D439352.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.01.56:662][604]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.01.56:662][604]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.02.31:675][766]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_Behavior40F08F194574AF0AFBFD549C043F19A9.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.02.31:688][766]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.02.31:688][766]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.02.54:900][541]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_Behavior69E2960B4E4ED79B267EF6A6A2D0BD9E.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.02.54:912][541]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.02.54:913][541]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.03.07:938][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.02-12.03.07:947][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.02-12.03.07:947][ 53]PIE: New page: PIE session: ThirdPersonExampleMap (2 jan. 2023 14:03:07)
+[2023.01.02-12.03.07:948][ 53]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.02-12.03.07:959][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011366s)
+[2023.01.02-12.03.07:960][ 53]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.02-12.03.07:961][ 53]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2023.01.02-12.03.07:961][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012577s)
+[2023.01.02-12.03.08:005][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.01.02-12.03.08:007][ 53]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.01.02-12.03.08:007][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.02-12.03.08:007][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.02-12.03.08:007][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.02-12.03.08:007][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.02-12.03.08:007][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.02-12.03.08:007][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.02-12.03.08:007][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.02-12.03.08:007][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.02-12.03.08:008][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.02-12.03.08:008][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.02-12.03.08:008][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.02-12.03.08:008][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.02-12.03.08:033][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.02-12.03.08:033][ 53]LogAudioMixer: Display: 1: FrontRight
+[2023.01.02-12.03.08:042][ 53]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (HyperX 7.1 Audio)
+[2023.01.02-12.03.08:042][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.02-12.03.08:042][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.02-12.03.08:042][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.02-12.03.08:042][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.02-12.03.08:042][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.02-12.03.08:042][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.02-12.03.08:043][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.02-12.03.08:043][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.02-12.03.08:043][ 53]LogInit: FAudioDevice initialized.
+[2023.01.02-12.03.08:044][ 53]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2023.01.02-12.03.08:073][ 53]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.02-12.03.08:075][ 53]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.02-13.03.08
+[2023.01.02-12.03.08:075][ 53]LogWorld: Bringing up level for play took: 0.002175
+[2023.01.02-12.03.08:076][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.01.02-12.03.08:078][ 53]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 1
+[2023.01.02-12.03.08:101][ 53]PIE: Server logged in
+[2023.01.02-12.03.08:102][ 53]PIE: Play in editor total start time 0,158 seconds.
+[2023.01.02-12.03.36:146][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-12.03.36:146][458]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.02-12.03.36:146][458]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.03.36:169][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.03.36:186][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.02-12.03.36:196][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.03.36:232][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.02-12.03.36:232][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.02-12.03.36:243][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.02-12.03.36:245][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-12.03.36:269][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.01.02-12.03.36:305][459]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.01.02-12.04.01:424][353]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/BTService_BlueprintBase_New.BTService_BlueprintBase_New
+[2023.01.02-12.04.01:737][353]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/AI/NPC/BTService_BlueprintBase_New.
+[2023.01.02-12.04.26:937][ 50]LogContentBrowser: Attempting asset rename: BTService_BlueprintBase_New -> ChangeNPCSpeed
+[2023.01.02-12.04.27:022][ 50]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.SKEL_ChangeNPCSpeed_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AI/NPC/BTService_BlueprintBase_New.PackageMetaData'
+[2023.01.02-12.04.27:022][ 50]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AI/NPC/BTService_BlueprintBase_New.PackageMetaData'
+[2023.01.02-12.04.27:158][ 50]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeed31D44C2E40EA9E982A5DB0BF7D07686F.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.04.27:353][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.01.02-12.04.27:420][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.01.02-12.04.27:467][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.02-12.04.29:109][ 50]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.
+[2023.01.02-12.04.29:152][ 50]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.04.29:152][ 50]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.05.00:525][458]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.05.00:565][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.01.02-12.05.00:937][499]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeedCB2EEEBC4FC0D90D9D5401A7AC8406B8.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.05.00:950][499]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.05.00:950][499]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.05.44:566][514]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.05.44:607][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.01.02-12.05.44:942][551]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeedCC5D6A404279311A906029A39B541772.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.05.44:957][551]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.05.44:957][551]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.06.04:543][632]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.06.04:584][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.01.02-12.06.04:948][673]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeed65ABABFD497161310E036589BD09AA02.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.06.04:961][673]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.06.04:961][673]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.06.15:424][917]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.06.15:466][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.01.02-12.06.15:883][963]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeed2DE2F44045008892788280B723E30B3F.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.06.15:897][963]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.06.15:897][963]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.07.02:599][528]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.07.02:641][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.01.02-12.07.03:143][580]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeedD8CF289D42E0FEE4E90A4AA1598370FA.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.07.03:158][580]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.07.03:158][580]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.07.23:466][983]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.07.23:508][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.01.02-12.07.24:012][ 40]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeedA80B296F411EACABDD69BD993BE06981.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.07.24:025][ 40]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.07.24:025][ 40]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.07.32:055][994]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.07.32:100][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.01.02-12.07.32:526][ 41]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeed00893BC848A57BEB694BD8869E324FB3.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.07.32:537][ 41]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.07.32:538][ 41]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.07.34:583][281]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.07.34:623][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.01.02-12.07.35:005][323]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeed48CD54F6414A080A2BF28F9C4F068994.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.07.35:017][323]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.07.35:017][323]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.07.46:552][695]BlueprintLog: New page: Compile ChangeNPCSpeed
+[2023.01.02-12.07.46:592][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.01.02-12.07.47:304][777]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ChangeNPCSpeed945ED40E4E34A5CE194177B5883F46E9.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.uasset'
+[2023.01.02-12.07.47:317][777]AssetCheck: New page: Asset Save: ChangeNPCSpeed
+[2023.01.02-12.07.47:317][777]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/AI/NPC/ChangeNPCSpeed.ChangeNPCSpeed
+[2023.01.02-12.08.11:475][641]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_Behavior7CAFD4194D53A9D626AB65845C12270B.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.08.11:489][641]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.08.11:490][641]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.08.23:979][128]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_BehaviorB0B496C142428B2D68C48A8B665B82B5.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.08.23:995][128]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.08.23:995][128]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.08.37:407][715]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_Behavior35E8290B4ABF40F8FB4CF080062E2886.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.08.37:423][715]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.08.37:424][715]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.08.39:054][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.01.02-12.08.39:079][840]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMap16AA81444A1FD76979C3F7888AFA82D6.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.02-12.08.39:103][840]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.01.02-12.08.39:103][840]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.02-12.08.39:498][876]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.02-12.08.39:509][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.02-12.08.39:509][876]PIE: New page: PIE session: ThirdPersonExampleMap (2 jan. 2023 14:08:39)
+[2023.01.02-12.08.39:510][876]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.02-12.08.39:520][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010650s)
+[2023.01.02-12.08.39:577][876]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.02-12.08.39:577][876]LogPlayLevel: PIE: World Init took: (0.056731s)
+[2023.01.02-12.08.39:577][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.067507s)
+[2023.01.02-12.08.39:616][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.01.02-12.08.39:639][876]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.01.02-12.08.39:639][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.02-12.08.39:639][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.02-12.08.39:639][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.02-12.08.39:639][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.02-12.08.39:639][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.02-12.08.39:639][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.02-12.08.39:639][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.02-12.08.39:639][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.02-12.08.39:639][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.02-12.08.39:639][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.02-12.08.39:639][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.02-12.08.39:639][876]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.02-12.08.39:646][876]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.02-12.08.39:646][876]LogAudioMixer: Display: 1: FrontRight
+[2023.01.02-12.08.39:655][876]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (HyperX 7.1 Audio)
+[2023.01.02-12.08.39:655][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.02-12.08.39:655][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.02-12.08.39:656][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.02-12.08.39:656][876]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.02-12.08.39:656][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.02-12.08.39:656][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.02-12.08.39:658][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.02-12.08.39:658][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.02-12.08.39:658][876]LogInit: FAudioDevice initialized.
+[2023.01.02-12.08.39:658][876]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2023.01.02-12.08.39:664][876]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.02-12.08.39:666][876]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.02-13.08.39
+[2023.01.02-12.08.39:667][876]LogWorld: Bringing up level for play took: 0.002222
+[2023.01.02-12.08.39:667][876]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.01.02-12.08.39:669][876]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 1
+[2023.01.02-12.08.39:670][876]PIE: Server logged in
+[2023.01.02-12.08.39:671][876]PIE: Play in editor total start time 0,165 seconds.
+[2023.01.02-12.08.59:585][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-12.08.59:585][598]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.02-12.08.59:585][598]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.08.59:586][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.08.59:597][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.02-12.08.59:607][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.08.59:643][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.02-12.08.59:643][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.02-12.08.59:644][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.02-12.08.59:645][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-12.08.59:649][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.01.02-12.08.59:684][599]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.01.02-12.09.15:109][155]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_Behavior410D3E1D41025BA63198C794BF727683.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.09.15:122][155]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.09.15:122][155]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.09.16:888][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.02-12.09.16:912][314]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMapA93B306D48C48CAC8B7420812EEE9E6B.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.02-12.09.16:934][314]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.01.02-12.09.16:934][314]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.02-12.09.17:311][348]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.02-12.09.17:322][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.02-12.09.17:322][348]PIE: New page: PIE session: ThirdPersonExampleMap (2 jan. 2023 14:09:17)
+[2023.01.02-12.09.17:322][348]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.02-12.09.17:333][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010512s)
+[2023.01.02-12.09.17:334][348]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.02-12.09.17:334][348]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2023.01.02-12.09.17:334][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011629s)
+[2023.01.02-12.09.17:373][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.01.02-12.09.17:374][348]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.01.02-12.09.17:374][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.02-12.09.17:374][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.02-12.09.17:374][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.02-12.09.17:374][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.02-12.09.17:374][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.02-12.09.17:374][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.02-12.09.17:374][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.02-12.09.17:374][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.02-12.09.17:375][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.02-12.09.17:375][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.02-12.09.17:375][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.02-12.09.17:375][348]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.02-12.09.17:380][348]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.02-12.09.17:380][348]LogAudioMixer: Display: 1: FrontRight
+[2023.01.02-12.09.17:388][348]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (HyperX 7.1 Audio)
+[2023.01.02-12.09.17:389][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.02-12.09.17:389][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.02-12.09.17:389][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.02-12.09.17:389][348]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.02-12.09.17:389][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.02-12.09.17:389][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.02-12.09.17:390][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.02-12.09.17:390][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.02-12.09.17:390][348]LogInit: FAudioDevice initialized.
+[2023.01.02-12.09.17:390][348]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2023.01.02-12.09.17:397][348]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.02-12.09.17:399][348]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.02-13.09.17
+[2023.01.02-12.09.17:400][348]LogWorld: Bringing up level for play took: 0.002037
+[2023.01.02-12.09.17:400][348]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.01.02-12.09.17:402][348]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] 1
+[2023.01.02-12.09.17:403][348]PIE: Server logged in
+[2023.01.02-12.09.17:404][348]PIE: Play in editor total start time 0,088 seconds.
+[2023.01.02-12.09.24:665][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-12.09.24:665][987]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.02-12.09.24:666][987]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.09.24:666][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.09.24:678][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.02-12.09.24:688][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.09.24:723][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.02-12.09.24:723][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.02-12.09.24:724][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.02-12.09.24:730][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.02-12.09.24:757][988]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.01.02-12.09.38:852][655]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/NPC_Behavior7FC3D9FD4C77D500CE8947A6E5270A24.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.uasset'
+[2023.01.02-12.09.38:865][655]AssetCheck: New page: Asset Save: NPC_Behavior
+[2023.01.02-12.09.38:865][655]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/NPC/NPC_Behavior.NPC_Behavior
+[2023.01.02-12.32.02:634][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.01.02-12.32.02:660][236]LogSavePackage: Moving 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Saved/ThirdPersonExampleMapF5A5E1074581B1FAB7C54CA8FF98BDA7.tmp' to 'C:/Users/Fredrik/Documents/GitHub/Unrealengine-course/Unrealcourse/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.02-12.32.02:683][236]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.01.02-12.32.02:683][236]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.02-12.32.03:453][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.02-12.32.03:850][294]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.03:850][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.32.05:756][294]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.05:756][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.32.06:825][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.02-12.32.06:825][294]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.06:825][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.32.07:011][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.02-12.32.07:011][294]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.07:011][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.32.07:419][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.02-12.32.07:419][294]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.07:419][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.32.07:649][294]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.07:649][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.32.08:105][294]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.08:105][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.32.08:216][294]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.08:216][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.02-12.32.08:411][294]LogSlate: Window 'Unrealcourse - Unreal Editor' being destroyed
+[2023.01.02-12.32.09:764][295]Cmd: QUIT_EDITOR
+[2023.01.02-12.32.09:783][295]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.01.02-12.32.09:970][295]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.02-12.32.11:105][295]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.02-12.32.11:108][295]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.02-12.32.11:108][295]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2023.01.02-12.32.11:124][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.02-12.32.11:145][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.02-12.32.11:458][295]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.02-12.32.11:496][295]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.02-12.32.11:631][295]LogExit: Preparing to exit.
+[2023.01.02-12.32.13:367][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.01.02-12.32.16:869][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:869][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:869][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:869][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:869][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:869][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:869][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:869][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.16:870][295]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.16:871][295]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.16:873][295]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.16:874][295]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.16:875][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:875][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:875][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:875][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:875][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:875][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:875][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:875][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.01.02-12.32.16:876][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.18:118][295]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.01.02-12.32.19:121][295]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.02-12.32.19:166][295]LogExit: Editor shut down
+[2023.01.02-12.32.19:308][295]LogExit: Transaction tracking system shut down
